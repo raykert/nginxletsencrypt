@@ -58,7 +58,7 @@ I am using jenkins in 8080 port, portainer in 9000 and qbittorrent in 8081.
 <br/>
 <br/>
 
-**Note:** I am using that services in docker container.
+**Note:** I am using that services in docker container.  
 **Note:** If you are going to use subdomain you haver to create the CNAME registry in the domain configuration.
 
 This the example files:
